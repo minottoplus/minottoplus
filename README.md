@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @minotto-plus
-- 👀 I’m interested in java
+- 👀 I’m interested in javascript
 - 🌱 I’m currently learning python
 
 <!---
