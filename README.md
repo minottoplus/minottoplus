@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @minotto-plus
+- 👋 Hi, I’m @minottoplus
 - 👀 I’m interested in C#
 - 🌱 I’m currently learning Python
 
