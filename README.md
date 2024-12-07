@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @minotto-plus
-- 👀 I’m interested in javascript
-- 🌱 I’m currently learning python
+- 👀 I’m interested in C#
+- 🌱 I’m currently learning Python
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minottoplus)](https://github.com/anuraghazra/github-readme-stats)
